@@ -1,0 +1,85 @@
+{
+  "community": {
+    "repo": "pyannote/speaker-diarization-community-1",
+    "revision": "3533c8cf8e369892e6b79ff1bf80f7b0286a54ee",
+    "files": {
+      "config.yaml": "5ce2bfa9a938dc132cec1172592d65173cbb8f444ea1e4133f10f9391de155be",
+      ".gitattributes": "5ca5d721264b62c84e55b912e7cdb019439cad30d41df8aeea3a23f9b1f86ef3",
+      "diarization.gif": "0d925ad38995d89009260e493b0ae2e684c3e1397f495265ed841c45c4f73a35",
+      "embedding/pytorch_model.bin": "6f10ff60898a1d185fa22e1d11e0bfa8a92efec811f11bca48cb8cafebefd929",
+      "plda/xvec_transform.npz": "325f1ce8e48f7e55e9c8aa47e05d2766b7c48c4b25b8de8dd751e7a4cc5fbe8f",
+      "plda/plda.npz": "9b77bcd840692710dd3496f62ecfeed8d8e5f002fd991b785079b244eab7d255",
+      "segmentation/pytorch_model.bin": "7ad24338d844fb95985486eb1a464e32d229f6d7a03c9abe60f978bacf3f816e"
+    }
+  },
+  "pyannote31": {
+    "repo": "pyannote/speaker-diarization-3.1",
+    "revision": "84fd25912480287da0247647c3d2b4853cb3ee5d",
+    "files": {
+      ".gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+      "handler.py": "2ca97765f7449ca4113d20d437326a289cc56d10621528309323ae6d95375697",
+      "config.yaml": "04ad9cd59a93c3a7c754200ecc9e1c4ba87bf1657ef8a4debf7555e711daeeda",
+      "requirements.txt": "bb450fa73fc3f0156f9affea74e66900e42c23c81b9d9da70d30312e28fdf149",
+      ".github/workflows/sync_to_hub.yaml": "eb3bc63c9ea65f3e80aff8d9d21add1cad1b501adb99658374225c07d1eea225",
+      "reproducible_research/AISHELL.SpeakerDiarization.Benchmark.test.eval": "fad3376adff04c9e640e9113dc1dcb6fead0356e48dc085f4a119b8e36dd4c74",
+      "reproducible_research/AISHELL.SpeakerDiarization.Benchmark.test.rttm": "854117735efbe2e241644d3f7043eeb394f2cf129d80010d275dee3207d1f7f4",
+      "reproducible_research/AMI-SDM.SpeakerDiarization.Benchmark.test.eval": "5ee47e65376643a32c9435c4b9e207a66db0502ed63932af9c07c0db894ade4f",
+      "reproducible_research/AMI.SpeakerDiarization.Benchmark.test.eval": "ac46e261261e77918e3c05e64705822eb4513b78f7a1fec372d8ed5c3c6efd02",
+      "reproducible_research/AMI-SDM.SpeakerDiarization.Benchmark.test.rttm": "88dcf21e6b0469eeefd8b6fb87a563977fd3d98f5c56715c64a64fd579451233",
+      "reproducible_research/AVA-AVD.SpeakerDiarization.Benchmark.test.eval": "9794ae8de21c106b0167b2968c951c9d2ef1b1c049fa69d2ca22b54822211fed",
+      "reproducible_research/AMI.SpeakerDiarization.Benchmark.test.rttm": "11a7c7e8913fd20f9bb8f74411474f1c88b56490bdd422cf9564d8830c9e3050",
+      "reproducible_research/AliMeeting.SpeakerDiarization.Benchmark.test.eval": "2864f0d5675eea6b161775171e89db755b76cc3f3991d091c4e8b0e19c40ba65",
+      "reproducible_research/AVA-AVD.SpeakerDiarization.Benchmark.test.rttm": "2875422d81307d4d0fb5d5eaae75c10e46d7653fbbd1b50a197bc8b92172ace5",
+      "reproducible_research/DIHARD.SpeakerDiarization.Benchmark.test.eval": "a5a2094f3bbc07301bc3540e0067122734c99d80d75ae385a71f29b4828d7faa",
+      "reproducible_research/MSDWILD.SpeakerDiarization.Benchmark.test.eval": "4a7f9b3897ecb24b79ab9c14f4401c5bcb81dd9396a8b6d0cbcf3c75927ac2eb",
+      "reproducible_research/AliMeeting.SpeakerDiarization.Benchmark.test.rttm": "1db7ddfa6813ff583e257963a6a129ed915a8926b4196545c435767812739b95",
+      "reproducible_research/REPERE.SpeakerDiarization.Benchmark.test.eval": "16b0ecef05e28cb39b85e4fd0e02e8eff122ec2f8db43bbe197a698a7c13089b",
+      "reproducible_research/MSDWILD.SpeakerDiarization.Benchmark.test.rttm": "aad5a0d52cc5acdf33dcc15e059d9676552073c23df9faaf6bdb8acc315bf191",
+      "reproducible_research/VoxConverse.SpeakerDiarization.Benchmark.test.eval": "799039fcf58c6c3cb242b9a3cd2716b8e66f2dbdcc63ceb988c766819d421c55",
+      "reproducible_research/REPERE.SpeakerDiarization.Benchmark.test.rttm": "fa7d7453750b9d6ca043a8f84b4a5c53dd727e4f9f5b517e58ac0f550a60d33c",
+      "reproducible_research/DIHARD.SpeakerDiarization.Benchmark.test.rttm": "2b84e395bbe9cae3a52493cd43969fb38c8ea9ac456824ddeffec8c309219bc9",
+      "reproducible_research/VoxConverse.SpeakerDiarization.Benchmark.test.rttm": "49b52da0238719c18606ffa5e369c0ffbf18c01e2fd12942cc4c70da337c15ff"
+    }
+  },
+  "segmentation": {
+    "repo": "pyannote/segmentation-3.0",
+    "revision": "e66f3d3b9eb0873085418a7b813d3b369bf160bb",
+    "files": {
+      ".gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+      "LICENSE": "63a777ad4b3c7aed4b260b084d8fb49ec781c46c70c6b599ca5d2402ef7ebe50",
+      "config.yaml": "fa65a47a751602f04cc570135007d76859b69e8f9f1bfdf5878a5145980d4263",
+      "pytorch_model.bin": "da85c29829d4002daedd676e012936488234d9255e65e86dfab9bec6b1729298"
+    }
+  },
+  "embedding": {
+    "repo": "pyannote/wespeaker-voxceleb-resnet34-LM",
+    "revision": "837717ddb9ff5507820346191109dc79c958d614",
+    "files": {
+      "config.yaml": "6ff718cff3c5d7a4493537ab7f4780cad7e3d32453f59099b4076aefa07a9974",
+      ".gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+      "pytorch_model.bin": "366edf44f4c80889a3eb7a9d7bdf02c4aede3127f7dd15e274dcdb826b143c56"
+    }
+  },
+  "modelscope": {
+    "campplus": {
+      "model": "iic/speech_campplus_sv_zh_en_16k-common_advanced",
+      "revision": "v1.0.0"
+    },
+    "vad": {
+      "model": "iic/speech_fsmn_vad_zh-cn-16k-common-pytorch",
+      "revision": "v2.0.4"
+    }
+  },
+  "3d-speaker": {
+    "git_commit": "065629c313eaf1a01c65c640c46d77e61e9607b4",
+    "model_files": {
+      "modelscope/models/iic--speech_campplus_sv_zh_en_16k-common_advanced/snapshots/v1.0.0/configuration.json": "d1ae364ff71e84ef5918ba30b0f8c2f28d2fdfdac4003b60ce0877b3f4630048",
+      "modelscope/models/iic--speech_campplus_sv_zh_en_16k-common_advanced/snapshots/v1.0.0/config.yaml": "17342041bd5b22f6fd7e32f6e7a267b0bf65f018c0a721bada6547e3d28fbfc9",
+      "modelscope/models/iic--speech_campplus_sv_zh_en_16k-common_advanced/snapshots/v1.0.0/campplus_cn_en_common.pt": "92f29b94e6948786a26778c9e302525d185bb08c8b9f5252ed98776902840199",
+      "modelscope/models/iic--speech_fsmn_vad_zh-cn-16k-common-pytorch/snapshots/v2.0.4/config.yaml": "486861ca26ddb79081663b6179cb204c6bfae71c52f04aafc48a9e9d8dde1e93",
+      "modelscope/models/iic--speech_fsmn_vad_zh-cn-16k-common-pytorch/snapshots/v2.0.4/am.mvn": "6820fef9687708c4fc3fab2530179c8fcea6262daa25514380056cd8f6eb1754",
+      "modelscope/models/iic--speech_fsmn_vad_zh-cn-16k-common-pytorch/snapshots/v2.0.4/configuration.json": "7bce8867e37d55c3dd8f672695ced18077a2be199ea529a5d432d5350fc0acba",
+      "modelscope/models/iic--speech_fsmn_vad_zh-cn-16k-common-pytorch/snapshots/v2.0.4/model.pt": "b3be75be477f0780277f3bae0fe489f48718f585f3a6e45d7dd1fbb1a4255fc5"
+    }
+  }
+}

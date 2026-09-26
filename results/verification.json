@@ -1,0 +1,711 @@
+{
+  "passed": true,
+  "display_precision": 2,
+  "measured_cells": 66,
+  "published_only_cells": 29,
+  "cells": [
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "aishell4",
+      "displayed": "9.65",
+      "origin": "rescored",
+      "recomputed": 9.647825584912225,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "alimeeting",
+      "displayed": "9.98",
+      "origin": "rescored",
+      "recomputed": 9.98228175335024,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "ami",
+      "displayed": "12.78",
+      "origin": "rescored",
+      "recomputed": 12.783169613885764,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "notsofar",
+      "displayed": "15.70",
+      "origin": "rescored",
+      "recomputed": 15.698285464889343,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "ramc",
+      "displayed": "11.14",
+      "origin": "rescored",
+      "recomputed": 11.14206261514126,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "voxconverse",
+      "displayed": "9.32",
+      "origin": "rescored",
+      "recomputed": 9.315817639221446,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "dihard3",
+      "displayed": "14.41",
+      "origin": "rescored",
+      "recomputed": 14.414712780318755,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "callhome",
+      "displayed": "10.54",
+      "origin": "rescored",
+      "recomputed": 10.54402188046767,
+      "match": true
+    },
+    {
+      "model": "AirCaps Diarization-v1",
+      "dataset": "msdwild",
+      "displayed": "15.27",
+      "origin": "rescored",
+      "recomputed": 15.268838350033889,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "aishell4",
+      "displayed": "10.30",
+      "origin": "rescored",
+      "recomputed": 10.30212662425047,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "alimeeting",
+      "displayed": "10.74",
+      "origin": "rescored",
+      "recomputed": 10.742972133847632,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "ami",
+      "displayed": "13.92",
+      "origin": "rescored",
+      "recomputed": 13.9207438522018,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "notsofar",
+      "displayed": "19.31",
+      "origin": "rescored",
+      "recomputed": 19.308936587086553,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "ramc",
+      "displayed": "10.99",
+      "origin": "rescored",
+      "recomputed": 10.994298715584609,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "voxconverse",
+      "displayed": "9.17",
+      "origin": "rescored",
+      "recomputed": 9.170920119349146,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "dihard3",
+      "displayed": "14.46",
+      "origin": "rescored",
+      "recomputed": 14.462481923089038,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "callhome",
+      "displayed": "12.74",
+      "origin": "rescored",
+      "recomputed": 12.74188726110252,
+      "match": true
+    },
+    {
+      "model": "DiariZen Large v2",
+      "dataset": "msdwild",
+      "displayed": "15.69",
+      "origin": "rescored",
+      "recomputed": 15.693252212760047,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "aishell4",
+      "displayed": "9.69",
+      "origin": "rescored",
+      "recomputed": 9.693891771970838,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "alimeeting",
+      "displayed": "18.25",
+      "origin": "rescored",
+      "recomputed": 18.245133113206172,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "ami",
+      "displayed": "27.66",
+      "origin": "rescored",
+      "recomputed": 27.655893138239207,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "notsofar",
+      "displayed": "18.81",
+      "origin": "rescored",
+      "recomputed": 18.81291412436004,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "ramc",
+      "displayed": "21.13",
+      "origin": "rescored",
+      "recomputed": 21.134165244830974,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "dihard3",
+      "displayed": "12.72",
+      "origin": "rescored",
+      "recomputed": 12.724301564466408,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "callhome",
+      "displayed": "11.70",
+      "origin": "rescored",
+      "recomputed": 11.701132059449444,
+      "match": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "dataset": "msdwild",
+      "displayed": "15.69",
+      "origin": "rescored",
+      "recomputed": 15.691640181087202,
+      "match": true
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "aishell4",
+      "displayed": "10.40",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "alimeeting",
+      "displayed": "11.10",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "ami",
+      "displayed": "13.50",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "notsofar",
+      "displayed": "18.40",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "ramc",
+      "displayed": "10.50",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "voxconverse",
+      "displayed": "8.60",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "dihard3",
+      "displayed": "14.60",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "callhome",
+      "displayed": "15.60",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannoteAI Precision-3",
+      "dataset": "msdwild",
+      "displayed": "15.90",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "aishell4",
+      "displayed": "11.70",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "alimeeting",
+      "displayed": "20.30",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "ami",
+      "displayed": "19.90",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "notsofar",
+      "displayed": "31.24",
+      "origin": "rescored",
+      "recomputed": 31.23875821851686,
+      "match": true
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "ramc",
+      "displayed": "20.80",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "voxconverse",
+      "displayed": "11.20",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "dihard3",
+      "displayed": "20.20",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "callhome",
+      "displayed": "26.70",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote Community-1",
+      "dataset": "msdwild",
+      "displayed": "22.80",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "aishell4",
+      "displayed": "12.20",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "alimeeting",
+      "displayed": "24.50",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "ami",
+      "displayed": "22.70",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "notsofar",
+      "displayed": "33.54",
+      "origin": "rescored",
+      "recomputed": 33.54187996147041,
+      "match": true
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "ramc",
+      "displayed": "22.20",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "voxconverse",
+      "displayed": "11.20",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "dihard3",
+      "displayed": "21.40",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "callhome",
+      "displayed": "28.50",
+      "origin": "published-only"
+    },
+    {
+      "model": "pyannote 3.1",
+      "dataset": "msdwild",
+      "displayed": "25.40",
+      "origin": "published-only"
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "aishell4",
+      "displayed": "10.30",
+      "origin": "published-only"
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "alimeeting",
+      "displayed": "19.73",
+      "origin": "published-only"
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "ami",
+      "displayed": "21.76",
+      "origin": "published-only"
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "notsofar",
+      "displayed": "32.32",
+      "origin": "rescored",
+      "recomputed": 32.32192348658864,
+      "match": true
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "ramc",
+      "displayed": "22.64",
+      "origin": "rescored",
+      "recomputed": 22.63973898302646,
+      "match": true
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "voxconverse",
+      "displayed": "11.75",
+      "origin": "published-only"
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "dihard3",
+      "displayed": "29.94",
+      "origin": "rescored",
+      "recomputed": 29.938874599513824,
+      "match": true
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "callhome",
+      "displayed": "22.20",
+      "origin": "rescored",
+      "recomputed": 22.204110371815734,
+      "match": true
+    },
+    {
+      "model": "3D-Speaker",
+      "dataset": "msdwild",
+      "displayed": "27.66",
+      "origin": "rescored",
+      "recomputed": 27.65831484381318,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "aishell4",
+      "displayed": "26.65",
+      "origin": "rescored",
+      "recomputed": 26.653964143231978,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "alimeeting",
+      "displayed": "36.24",
+      "origin": "rescored",
+      "recomputed": 36.24496719280998,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "ami",
+      "displayed": "36.93",
+      "origin": "rescored",
+      "recomputed": 36.92593300680186,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "notsofar",
+      "displayed": "42.27",
+      "origin": "rescored",
+      "recomputed": 42.26592355726302,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "ramc",
+      "displayed": "19.48",
+      "origin": "rescored",
+      "recomputed": 19.481600319380323,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "voxconverse",
+      "displayed": "13.37",
+      "origin": "rescored",
+      "recomputed": 13.36801348330549,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "dihard3",
+      "displayed": "29.74",
+      "origin": "rescored",
+      "recomputed": 29.744016127935858,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "callhome",
+      "displayed": "23.18",
+      "origin": "rescored",
+      "recomputed": 23.1757106994567,
+      "match": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "dataset": "msdwild",
+      "displayed": "27.64",
+      "origin": "rescored",
+      "recomputed": 27.636352151432188,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "aishell4",
+      "displayed": "53.97",
+      "origin": "rescored",
+      "recomputed": 53.969638423390094,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "alimeeting",
+      "displayed": "51.56",
+      "origin": "rescored",
+      "recomputed": 51.56370314477144,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "ami",
+      "displayed": "41.39",
+      "origin": "rescored",
+      "recomputed": 41.39434283942367,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "notsofar",
+      "displayed": "45.31",
+      "origin": "rescored",
+      "recomputed": 45.30627489275255,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "ramc",
+      "displayed": "31.21",
+      "origin": "rescored",
+      "recomputed": 31.20532504814944,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "voxconverse",
+      "displayed": "12.49",
+      "origin": "rescored",
+      "recomputed": 12.487368655845408,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "dihard3",
+      "displayed": "38.67",
+      "origin": "rescored",
+      "recomputed": 38.665468319513955,
+      "match": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "dataset": "callhome",
+      "displayed": "29.89",
+      "origin": "rescored",
+      "recomputed": 29.894525106456744,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "aishell4",
+      "displayed": "17.63",
+      "origin": "rescored",
+      "recomputed": 17.630461651532965,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "alimeeting",
+      "displayed": "33.93",
+      "origin": "rescored",
+      "recomputed": 33.92951683712897,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "ami",
+      "displayed": "35.14",
+      "origin": "rescored",
+      "recomputed": 35.137464037483305,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "notsofar",
+      "displayed": "37.54",
+      "origin": "rescored",
+      "recomputed": 37.539231689379136,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "ramc",
+      "displayed": "29.33",
+      "origin": "rescored",
+      "recomputed": 29.334560434199112,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "dihard3",
+      "displayed": "39.53",
+      "origin": "rescored",
+      "recomputed": 39.52855988804722,
+      "match": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "dataset": "callhome",
+      "displayed": "27.56",
+      "origin": "rescored",
+      "recomputed": 27.562755084891158,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "aishell4",
+      "displayed": "24.29",
+      "origin": "rescored",
+      "recomputed": 24.294599933233652,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "alimeeting",
+      "displayed": "33.61",
+      "origin": "rescored",
+      "recomputed": 33.6140392183187,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "ami",
+      "displayed": "35.56",
+      "origin": "rescored",
+      "recomputed": 35.558543616895086,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "notsofar",
+      "displayed": "37.16",
+      "origin": "rescored",
+      "recomputed": 37.157179305759755,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "ramc",
+      "displayed": "32.06",
+      "origin": "rescored",
+      "recomputed": 32.05725372949964,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "voxconverse",
+      "displayed": "16.28",
+      "origin": "rescored",
+      "recomputed": 16.28290973127206,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "dihard3",
+      "displayed": "40.29",
+      "origin": "rescored",
+      "recomputed": 40.290719818547416,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "callhome",
+      "displayed": "27.48",
+      "origin": "rescored",
+      "recomputed": 27.47654590068517,
+      "match": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "dataset": "msdwild",
+      "displayed": "29.96",
+      "origin": "rescored",
+      "recomputed": 29.964166127331683,
+      "match": true
+    }
+  ],
+  "failures": []
+}

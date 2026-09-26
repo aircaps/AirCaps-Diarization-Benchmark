@@ -1,0 +1,11 @@
+{
+  "ami": {"recipe": "sources/DiariZen", "audio": "sources/ami"},
+  "aishell4": {"recipe": "sources/DiariZen", "audio": "sources/AISHELL-4"},
+  "alimeeting": {"recipe": "sources/DiariZen", "audio": "sources/Test_Ali"},
+  "notsofar": {"root": "sources/NOTSOFAR"},
+  "ramc": {"root": "sources/MagicData-RAMC"},
+  "voxconverse": {"annotations": "sources/voxconverse", "audio": "sources/voxconverse_test_wav"},
+  "dihard3": {"root": "sources/LDC2022S14"},
+  "callhome": {"root": "sources/LDC2026S08"},
+  "msdwild": {"annotations": "sources/MSDWILD", "audio": "sources/msdwild_wavs"}
+}

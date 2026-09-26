@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "text_artifacts_scanned": 29072,
+  "archived_artifacts_hash_verified": 21493,
+  "errors": [],
+  "hash_failures": [],
+  "policy": "Decompressed JSON and source scanned for deployment paths, storage identifiers, credentials and internal model variant identifiers; forbidden audio/weight/environment file types rejected. AirCaps implementation is absent; AirCaps contributes predictions and numeric scores only."
+}

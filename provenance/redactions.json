@@ -1,0 +1,9 @@
+{
+  "policy": "Deployment paths, signed URLs, account metadata and authentication fields removed; scoring intervals and text retained. Original hashes allow private-byte provenance checking. JSON formatting is normalized; compression is deterministic.",
+  "removed_field_paths": [
+    "/response/project_id",
+    "/response/token_id",
+    "/response/transcription/audio_url",
+    "/protocol/tau_source (replaced internal provenance note with public methodology link)"
+  ]
+}

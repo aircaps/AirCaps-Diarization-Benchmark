@@ -1,0 +1,20 @@
+[
+  {
+    "figure": "diarization-leading-models.png",
+    "regenerated_sha256": "8c5bbe2155a470a624af594a644da6192d9cce622cd37b6e7030e0a7168e95d0",
+    "website_sha256": "8c5bbe2155a470a624af594a644da6192d9cce622cd37b6e7030e0a7168e95d0",
+    "match": true
+  },
+  {
+    "figure": "diarization-seven-corpus.png",
+    "regenerated_sha256": "4a51a3b3076b0fa11456113e6f9e967926c50b37f577eda15c39a6e23437620d",
+    "website_sha256": "4a51a3b3076b0fa11456113e6f9e967926c50b37f577eda15c39a6e23437620d",
+    "match": true
+  },
+  {
+    "figure": "diarization-dataset-breakdown.png",
+    "regenerated_sha256": "d3f323fea1f5c45be7c982f9c9c13628c5cb37ea5e0f62b56d9abc7fbde215d6",
+    "website_sha256": "d3f323fea1f5c45be7c982f9c9c13628c5cb37ea5e0f62b56d9abc7fbde215d6",
+    "match": true
+  }
+]

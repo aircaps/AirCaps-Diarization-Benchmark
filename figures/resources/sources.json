@@ -1,0 +1,12 @@
+{
+  "plex.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexsans/IBMPlexSans%5Bwdth,wght%5D.ttf",
+  "newsreader.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/newsreader/Newsreader%5Bopsz,wght%5D.ttf",
+  "but.png": "https://cdn-avatars.huggingface.co/v1/production/uploads/60dd973c5cf30e35111dbb02/ddxou0Vv6AT3lyPKgCnNH.png",
+  "pyannote.png": "https://cdn-avatars.huggingface.co/v1/production/uploads/5fcf602140b27fad857dfa8d/-afjRExJpYCCl5TCtFA68.png",
+  "nvidia.png": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
+  "assemblyai.ico": "https://www.assemblyai.com/favicon.ico",
+  "alibaba.ico": "https://static.alibabagroup.com/static/favicon.ico",
+  "xai.ico": "https://x.ai/favicon.ico",
+  "elevenlabs.svg": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elevenlabs.svg",
+  "meta.png": "https://cdn-avatars.huggingface.co/v1/production/uploads/646cf8084eefb026fb8fd8bc/oCTqufkdTkjyGodsx1vo1.png"
+}

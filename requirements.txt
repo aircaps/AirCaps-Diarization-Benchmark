@@ -1,0 +1,8 @@
+pyannote.metrics==3.2.1
+pyannote.core==5.0.0
+numpy==2.5.3
+scipy==1.18.1
+soundfile==0.14.0
+aiohttp==3.14.3
+requests==2.34.2
+beautifulsoup4==4.15.0

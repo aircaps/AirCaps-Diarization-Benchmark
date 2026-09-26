@@ -1,0 +1,63 @@
+{
+  "runners": [
+    {
+      "model": "DiariZen Large v2",
+      "inference_code": "runners/diarizen.py",
+      "setup_or_conversion": "runners/setup_assets.py",
+      "files_present": true
+    },
+    {
+      "model": "Nemotron 3 Diarization",
+      "inference_code": "runners/nemotron.py",
+      "setup_or_conversion": "docs/INFERENCE.md",
+      "files_present": true
+    },
+    {
+      "model": "3D-Speaker",
+      "inference_code": "runners/pipelines.py",
+      "setup_or_conversion": "runners/setup_assets.py",
+      "files_present": true
+    },
+    {
+      "model": "pyannote 3.1",
+      "inference_code": "runners/pipelines.py",
+      "setup_or_conversion": "runners/setup_assets.py",
+      "files_present": true
+    },
+    {
+      "model": "pyannote Community-1",
+      "inference_code": "runners/pipelines.py",
+      "setup_or_conversion": "runners/setup_assets.py",
+      "files_present": true
+    },
+    {
+      "model": "ElevenLabs Scribe v2",
+      "inference_code": "runners/cloud_asr.py",
+      "setup_or_conversion": "benchmark/provider_intervals.py",
+      "files_present": true
+    },
+    {
+      "model": "AssemblyAI U3.5 Pro",
+      "inference_code": "runners/cloud_asr.py",
+      "setup_or_conversion": "benchmark/provider_intervals.py",
+      "files_present": true
+    },
+    {
+      "model": "Meta Muse Voice Transcribe",
+      "inference_code": "runners/cloud_asr.py",
+      "setup_or_conversion": "benchmark/provider_intervals.py",
+      "files_present": true
+    },
+    {
+      "model": "Grok Voice Transcribe 2.0",
+      "inference_code": "runners/cloud_asr.py",
+      "setup_or_conversion": "benchmark/provider_intervals.py",
+      "files_present": true
+    }
+  ],
+  "excluded_implementations": [
+    "AirCaps Diarization-v1 (outputs only)",
+    "Precision-3 (published values only)"
+  ],
+  "upstream_implementations": "Installed from the third-party repositories and dependencies specified in the setup code and inference documentation."
+}
