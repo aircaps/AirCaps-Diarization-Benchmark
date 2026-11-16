@@ -4,6 +4,8 @@
 
 Evaluation code, frozen recording manifests, original model predictions, provider responses and per-recording scores behind the AirCaps Diarization-v1 research page. **AirCaps scores 12.03% average DER across seven datasets.**
 
+**Model:** [AirCaps Diarization-v1](https://aircaps.ai/models/diarization) · **Report:** [Diarization-v1 research note](https://aircaps.ai/research/aircaps-diarization-v1-who-spoke-when-in-real-world-audio) · **API:** [AirCaps AI docs](https://aircaps.ai/docs)
+
 This release lets you **reproduce the scores from saved predictions** without a GPU or API calls. It also includes the third-party inference adapters and exact recorded request settings for new runs. AirCaps implementation and weights are not part of this release; its final RTTM predictions are included. Original audio and reference annotations must be obtained from their owners.
 
 ## Reproduce the results
